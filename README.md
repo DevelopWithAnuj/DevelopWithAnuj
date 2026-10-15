@@ -1,42 +1,16 @@
-<div align="center">
+# Hey I'm [Anuj Prajapati](https://developwithanuj.github.io/Portfolio-web/)! 👋
 
-# Hey I'm [Anuj Prajapati!](https://github.com/DevelopWithAnuj) 👋
- 
-</div>
+- 🔭 I’ve completed my *Diploma in Computer Science & Engineering from Govt Polytechnic Aurai* and am currently pursuing my _**B.Tech**_ at **LDC Institute of Technical Studies, Prayagraj**.
+- 🌱 I’m currently Working on React and the MERN Stack.
+- 💬 Ask me about *programming languages & tools* JavaScript, React, Tailwind CSS, MongoDB.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuj-prajapati1/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Always active between 9 to 9 😅😅
 
-> - 🔭 I’m currently pursuing my **Diploma in CSE from Govt. Polytechnic Aurai.**  
-> - 🌱 I’m currently Working on MERN Stack
-> - 💬 Ask me about **programming languages** `JavaScript`,`Python`,`SQL`,`MongoDB`
-> - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/anuj-prajapati1/) 
-> - 😄 Pronouns: `He/His`  
-> - ⚡ Fun fact: Always active between 9 to 9 😅😅
+## Show some ❤️ by starring some of the repositories!
 
-<div align="center">
- 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-<br/>
-
-<div align="center">
-
-
-<a href="https://www.linkedin.com/in/anuj-prajapati1/">
-  <img align="left" alt="Anuj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/DevelopWithAnuj">
-  <img align="left" alt="Anuj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/devwithanuj">
-  <img align="left" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://x.com/Anuj1427">
-  <img align="left" alt="Anuj's X" width="22px" src="https://cdn.simpleicons.org/x" />
-</a>
-<a href="https://dev.to/anuj_prajapati_">
-  <img align="left" alt="Anuj's DEV.to" width="22px" src="https://cdn.simpleicons.org/devdotto" />
-</a>
-
-</div>
-</html>
+[![Anuj's LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-prajapati1/)
+[![Anuj's Github](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://developwithanuj.github.io/Portfolio-web/)
+[![Anuj's Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Anuj's X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/)
+[![Anuj's DEV.to](https://img.shields.io/badge/DEV.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/)
